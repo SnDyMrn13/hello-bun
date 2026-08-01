@@ -8,3 +8,5 @@ console.log("Yesterday when I was trying to "git configure" a file onto GitHub, 
 I learned I don't have to use "console.log" here.
 
 pwd fans and ls fans may debate.
+
+Programmer's don't fear commitment...unless it's a git commit on a Friday at 4:59 pm.
